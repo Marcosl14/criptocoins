@@ -1,24 +1,5 @@
-# criptomonedas
+Cryptocoins is a VUE 3 CLI Project
 
-## Project setup
-```
-npm install
-```
+Is the final project for the Subject Lab3 at my current University.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+I have used VUE 3, CLI, VUEX, Router and API´s requests usign AXIOS.
